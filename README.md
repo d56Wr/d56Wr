@@ -1,10 +1,22 @@
 ### Hi, I'm Vojtěch Šťastný 👋
 
-**Backend developer & chapter lead** from Czechia. By day I build backend systems and lead a team of developers. In my own time I ship products end to end, from database and APIs to UI, Docker images and hosting.
+**Chapter lead & backend developer (PHP / Laravel)** from Czechia. In my day job I lead a chapter of ~17 engineers and still write production code for internal banking applications. In my own time I ship products end to end, from database and APIs to UI, Docker images and hosting.
 
-- 💼 Backend development + engineering leadership (chapter lead: hiring, mentoring, code quality, ways of working)
+- 💼 Engineering leadership + hands-on backend development
+- 🤖 AI enthusiast: I use LLMs and AI coding agents every day and keep exploring what they can do for development teams
 - 🌍 Open to **full-remote** (or hybrid) roles
 - 📫 [vojtech.stastny@gmail.com](mailto:vojtech.stastny@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vojtechstastny/)
+
+### 💼 Experience
+
+**Chapter Lead & PHP Developer** · banking, Corporate Strategy & Financing tribe · *07/2023 – present*
+- Line manager for a chapter of ~17 developers (Java, PHP, Angular, Vue.js): hiring, capability planning, supporting squads across the tribe
+- Align development standards and technical quality with the Development Area Leader, Tribe Technology Leader, Product Owners and Dev Leads
+- Still an active backend developer on internal banking applications (PHP / Laravel)
+
+**PHP Developer** · banking, Corporate Strategy & Financing tribe · *08/2022 – 06/2023*
+- Internal applications in PHP / Laravel: API development, business logic, integrations with internal systems
+- Performance improvements and production support for solutions used across the bank
 
 ### 🌐 Products I've built and run
 
@@ -25,6 +37,9 @@
 
 ### 🛠️ Tech
 
-**Backend:** PHP / Laravel · Python · C# / .NET · Go · REST APIs · SQL
+**Backend:** PHP / Laravel · Python · C# / .NET · Go · REST APIs · PostgreSQL
+**Messaging & feature flags:** Apache Kafka · ActiveMQ Artemis · Flagsmith
+**DevOps & quality:** Docker · Kubernetes · Jenkins · GitHub Actions · SonarQube · Git · Bitbucket · Nginx
 **Frontend & apps:** JavaScript · Blade · Qt 6 / QML · Android (Java)
-**Infra:** Linux · Docker · GitHub Actions · self-hosting & homelab (Home Assistant, automated backups)
+**AI:** LLMs and AI coding agents in daily development
+**Automation:** VBA scripting for Word & Excel · Linux · self-hosting & homelab (Home Assistant, automated backups)

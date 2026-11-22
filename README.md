@@ -4,7 +4,7 @@
 
 - 💼 Engineering leadership + hands-on backend development
 - 🤖 AI enthusiast: I use LLMs and AI coding agents every day and keep exploring what they can do for development teams
-- 🌍 Open to **full-remote** (or hybrid) roles
+- 🌍 Open to remote or hybrid roles
 - 📫 [vojtech.stastny@gmail.com](mailto:vojtech.stastny@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vojtechstastny/)
 
 ### 💼 Experience

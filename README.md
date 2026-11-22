@@ -14,10 +14,6 @@
 - Align development standards and technical quality with the Development Area Leader, Tribe Technology Leader, Product Owners and Dev Leads
 - Still an active backend developer on internal banking applications (PHP / Laravel)
 
-**PHP Developer** · banking, Corporate Strategy & Financing tribe · *08/2022 – 06/2023*
-- Internal applications in PHP / Laravel: API development, business logic, integrations with internal systems
-- Performance improvements and production support for solutions used across the bank
-
 ### 🌐 Products I've built and run
 
 | Product | What it is |

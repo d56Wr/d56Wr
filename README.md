@@ -9,7 +9,7 @@
 
 ### 💼 Experience
 
-**Chapter Lead & PHP Developer** · banking, Corporate Strategy & Financing tribe · *07/2023 – present*
+**Chapter Lead & PHP Developer** · banking, Corporate Strategy & Financing tribe
 - Line manager for a chapter of ~17 developers (Java, PHP, Angular, Vue.js): hiring, capability planning, supporting squads across the tribe
 - Align development standards and technical quality with the Development Area Leader, Tribe Technology Leader, Product Owners and Dev Leads
 - Still an active backend developer on internal banking applications (PHP / Laravel)
